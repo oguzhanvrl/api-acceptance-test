@@ -1,0 +1,2 @@
+
+* Controller bazlı e2e test class'larınızı buraya ekleyebilirsiniz.

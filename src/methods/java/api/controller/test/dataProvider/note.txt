@@ -1,0 +1,3 @@
+
+* Testlerini birden fazla data kullanarak çalıştırmak istediğiniz zaman buraya
+kullandığınız test framework'ünüzdeki dataProvider class'larını ekleyebilirsiniz.

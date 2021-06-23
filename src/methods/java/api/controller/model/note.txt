@@ -1,0 +1,4 @@
+
+* Request ve response'ları serialize edeceğiniz data class'larınız buraya eklenebilir
+
+* Enum'larınız yine buraya eklenebilir

@@ -1,0 +1,3 @@
+
+* Yazdığını acceptance testlerinizi (e2e & component) suite 'lere bölerek,
+testlerinizi gruplayabilirsiniz. Örnek suite'ler regression / sanity / smoke

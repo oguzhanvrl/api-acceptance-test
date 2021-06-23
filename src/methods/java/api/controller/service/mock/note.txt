@@ -1,0 +1,2 @@
+
+* Bağımlı olduğunuz servisler mock istekler atacağınız zaman burayı kullanabilirsiniz.

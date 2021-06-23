@@ -1,0 +1,3 @@
+
+* Buraya testlerinizde tekrar eden servis isteklerini ekleyerek senaryolarda
+ihtiyaç duyduğunuz durumların CRUD işlemlerini yapan yardımcı metotlar yazabilirsiniz.

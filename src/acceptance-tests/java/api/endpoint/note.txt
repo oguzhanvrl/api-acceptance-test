@@ -1,0 +1,2 @@
+
+* Controller bazlı endpoint'lerinizin test class'larını buraya ekleyebilirsiniz.

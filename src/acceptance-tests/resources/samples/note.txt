@@ -1,0 +1,4 @@
+
+* Beklediğiniz statik json respone'ları buraya eklerek mock isteklerinizdeki data
+ihtiyacını veya bazı case'lerinizdeki reponse değerlerini buraya statik doküman olarak
+ekleyip kullanabilirsiniz.

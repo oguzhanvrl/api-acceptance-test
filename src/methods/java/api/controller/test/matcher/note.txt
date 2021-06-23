@@ -1,0 +1,3 @@
+
+* Testlerinizden birden fazla field'ı kontrol etme ihtyacınız olabilir,
+bu gibi durumlarda matcher'lar üzerinden ilerleyebilirsiniz.

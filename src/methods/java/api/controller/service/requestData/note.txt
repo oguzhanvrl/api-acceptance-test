@@ -1,0 +1,3 @@
+
+* Servisinize istekler atacağınız zaman ihtiyaç duyduğunuz queryParam ve body 'ler
+ için uygun datakarı burada statik metotlar ile kullanabilirsiniz.
